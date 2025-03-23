@@ -37,7 +37,8 @@
 ```bash
 git clone https://github.com/2100chen/snake---eating.git
 cd snake---eating
-# 直接打开index.html即可
+./index.html
+# 或直接打开index.html即可
 ```
 
 ## 🕹️ 操作说明
