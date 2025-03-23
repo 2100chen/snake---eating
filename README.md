@@ -29,12 +29,14 @@
 
 ## 🚀 快速开始
 ### 在线体验
-[点击这里体验在线Demo](https://yourusername.github.io/snake-game/)
+[点击这里体验在线Demo](https://2100chen.github.io/snake---eating/)
+
+
 
 ### 本地运行
 ```bash
-git clone https://github.com/yourusername/snake-game.git
-cd snake-game
+git clone https://github.com/2100chen/snake---eating.git
+cd snake---eating
 # 直接打开index.html即可
 ```
 
