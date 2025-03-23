@@ -7,7 +7,7 @@
 
 一个基于HTML5 Canvas开发的响应式贪吃蛇游戏，支持跨平台操作（PC/移动端），包含完整游戏逻辑和现代UI设计。
 
-![游戏截图](assets/screenshot.png)
+![游戏截图](assets/screenshots/screenshot.png)
 
 ## 功能特性
 
